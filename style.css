@@ -1,0 +1,99 @@
+#header{
+    position: fixed;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    text-align: center;
+        }
+    .besar{
+      color: rgb(31, 92, 92);
+      font-weight: 200;
+      font-weight: bold;
+      font-size: 40px;
+      font-family: Arial, Helvetica, sans-serif;
+      }
+    .button{
+      background-color:  rgb(31, 92, 92);
+      margin: 4px 2px;
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      border-radius: 40px;
+      }
+      .button:hover{
+      opacity:0.9;
+      }
+      .button2{
+      background-color:  rgb(31, 92, 92);
+      margin: 4px 2px;
+      border: none;
+      color: white;
+      padding: 5px 12px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      border-radius: 10px;
+      }
+      .text-muted{
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      .center{
+        background-color:  rgb(31, 92, 92);
+        justify-content: center;      
+        text-align: center;
+        color: azure;
+        padding: 10px;  
+        margin: 12px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: medium;
+        border-style: dashed;
+        border-radius: 35px;
+      }
+      .kecil{
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(31, 92, 92);
+      }
+      .pe{
+        font-size: medium;
+        text-align: justify;
+      }
+      .cardio{
+        height: 350px;   
+        width: 350px;
+        border-radius: 20px;
+      }
+      .teksweb{
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        color: rgb(31, 92, 92) ;
+      }
+    .list{
+      width: 550px;
+    }
+    .dis{
+      font-family: Arial, Helvetica, sans-serif;
+      color:rgb(31, 92, 92) ;
+      font-weight: bold;
+    }
+    .lead{
+      font-family: Arial, Helvetica, sans-serif;
+      color:rgb(31, 92, 92) ;
+      font-size: medium;
+      text-align: justify;
+
+    }
+    .kiu{
+      font-size: small;
+      font-weight: bold;
+      color:rgb(31, 92, 92) ;
+    }
